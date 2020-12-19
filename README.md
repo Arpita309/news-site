@@ -1,11 +1,11 @@
-## This a news website , it shows the latest news with their time stamps  , build using ReactJS , newsapi and axios to fetch data and send request.
+## This is a news website , it shows the latest news with their time stamps  , build using ReactJS , newsapi and axios to fetch data and send request.
 #### Features :
          Feature to select the category of news
          To search based on category
          on clicking on a particular news headline it will redirect you to the page with it's details.
          
  ## Screen Shot :
- 
+ <img src="https://github.com/Arpita309/news-site/blob/master/src/components/home/Screenshot%20(233).png">
  
  
  #### Due to some issues of Api it does not fetch after deploying , you can run it on your computer locally to view it by downloading it , insatlling all the dependencies using npm install  , creating your account for the api and run using command  npm start.
