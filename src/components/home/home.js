@@ -2,7 +2,7 @@ import React from 'react'
 import './home.css'
 import Axios from 'axios'
 import Moment from 'moment'
-const apiKey='5a677cc95f3842eb87a52ed86311176b'
+const apiKey='your key here'
 class Home extends React.Component{
     constructor(props){
         super(props)
